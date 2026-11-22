@@ -146,6 +146,7 @@ def run_dqn(
     q_measurements = []
     q_max_abs_seen = 0.0
 
+
     # Use the same fixed states to check Q values.
     fixed_states = np.asarray(
         probe_states(),
@@ -295,8 +296,11 @@ if __name__ == "__main__":
     )
 
     print("Seed:", results["seed"])
+    
     print("Agent:", results["variant"])
+    
     print("Environment steps:", 20000)
+    
     print("Completed episodes:", len(results["episode_returns"]))
 
     if results["episode_returns"]:

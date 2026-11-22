@@ -371,6 +371,7 @@ def create_q_value_plot(results):
         linewidth=1.5,
         label="Theoretical Q upper bound (100)"
     )
+    
 
     ax.set_title("Largest Absolute DQN Action Value")
     ax.set_xlabel("Environment steps")
@@ -383,7 +384,6 @@ def create_q_value_plot(results):
     plt.close(fig)
 
     print("Saved dqn_q_value_comparison.png")
-
 
 def print_summary(results):
     print("\n" + "=" * 75)
@@ -402,6 +402,7 @@ def print_summary(results):
 
 
 if __name__ == "__main__":
+    
     all_results = run_all_experiments()
 
     save_results(all_results)

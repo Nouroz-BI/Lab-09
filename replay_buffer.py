@@ -19,6 +19,7 @@ class ReplayBuffer:
             np.array(next_state, dtype=np.float32),
             bool(terminated)
         )
+        
 
         # Remove the oldest item if the buffer is already full.
         if len(self.buffer) >= self.capacity:
@@ -28,6 +29,7 @@ class ReplayBuffer:
         self.buffer.append(transition)
 
     def sample(self, batch_size=64):
+       
         # Make sure there are enough transitions for a full batch.
         if len(self.buffer) < batch_size:
             raise ValueError("Not enough transitions to create a batch.")

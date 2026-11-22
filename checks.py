@@ -4,8 +4,8 @@ import torch.nn.functional as F
 
 from lab09_starter import QNet
 
-
 # Check 1: DQN target calculation
+
 
 def check_dqn_targets():
     reward = 1.0
@@ -115,6 +115,7 @@ def train_fixed_point(use_target_network):
     return learned_q
 
 
+
 def check_fixed_point():
     target_q = train_fixed_point(use_target_network=True)
     online_q = train_fixed_point(use_target_network=False)
@@ -140,6 +141,7 @@ def check_ppo_clipping():
     print("\nCHECK 4: PPO CLIPPED OBJECTIVE")
 
     results = []
+
 
     for ratio, advantage in examples:
         unclipped = ratio * advantage

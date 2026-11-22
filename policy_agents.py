@@ -6,7 +6,6 @@ from torch.distributions import Categorical
 
 from lab09_starter import CartPole, mlp, set_seed
 
-
 # Choose an action using the policy network.
 def select_policy_action(policy, state):
     state_tensor = torch.tensor(
@@ -394,6 +393,7 @@ def run_ppo(seed=0, total_steps=20000):
                 state = env.reset()
                 episode_return = 0.0
 
+
         # Convert the rollout data into tensors.
         states = torch.tensor(
             np.array(states),
@@ -559,8 +559,11 @@ if __name__ == "__main__":
     )
 
     print("Environment steps:", ppo_results["environment_steps"])
+
     print("Completed episodes:", len(ppo_results["episode_returns"]))
+    
     print("Last episode return:", ppo_results["episode_returns"][-1])
+    
     print("Training time:", round(ppo_results["elapsed_time"], 2), "seconds")
 
     print("\nBOTH POLICY AGENTS COMPLETED")
