@@ -20,7 +20,6 @@ class ReplayBuffer:
             bool(terminated)
         )
         
-
         # Remove the oldest item if the buffer is already full.
         if len(self.buffer) >= self.capacity:
             self.buffer.pop(0)

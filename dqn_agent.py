@@ -142,10 +142,8 @@ def run_dqn(
     episode_return = 0.0
     episode_returns = []
     episode_end_steps = []
-
     q_measurements = []
     q_max_abs_seen = 0.0
-
 
     # Use the same fixed states to check Q values.
     fixed_states = np.asarray(

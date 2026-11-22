@@ -393,7 +393,6 @@ def run_ppo(seed=0, total_steps=20000):
                 state = env.reset()
                 episode_return = 0.0
 
-
         # Convert the rollout data into tensors.
         states = torch.tensor(
             np.array(states),
@@ -557,6 +556,7 @@ if __name__ == "__main__":
         seed=0,
         total_steps=20000
     )
+
 
     print("Environment steps:", ppo_results["environment_steps"])
 

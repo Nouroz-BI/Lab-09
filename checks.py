@@ -139,9 +139,7 @@ def check_ppo_clipping():
     ]
 
     print("\nCHECK 4: PPO CLIPPED OBJECTIVE")
-
     results = []
-
 
     for ratio, advantage in examples:
         unclipped = ratio * advantage
