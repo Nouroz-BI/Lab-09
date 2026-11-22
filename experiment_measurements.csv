@@ -1,0 +1,1201 @@
+Agent,Seed,Measurement Type,Environment Step,Value
+Standard DQN,0,Smoothed Return,500,21.59090909090909
+Standard DQN,0,Smoothed Return,1000,20.3265306122449
+Standard DQN,0,Smoothed Return,1500,21.91176470588235
+Standard DQN,0,Smoothed Return,2000,24.29268292682927
+Standard DQN,0,Smoothed Return,2500,27.694444444444443
+Standard DQN,0,Smoothed Return,3000,34.907407407407405
+Standard DQN,0,Smoothed Return,3500,46.54761904761905
+Standard DQN,0,Smoothed Return,4000,57.54545454545455
+Standard DQN,0,Smoothed Return,4500,76.15384615384616
+Standard DQN,0,Smoothed Return,5000,98.0
+Standard DQN,0,Smoothed Return,5500,97.14285714285714
+Standard DQN,0,Smoothed Return,6000,88.65217391304348
+Standard DQN,0,Smoothed Return,6500,87.3913043478261
+Standard DQN,0,Smoothed Return,7000,82.28
+Standard DQN,0,Smoothed Return,7500,92.42857142857143
+Standard DQN,0,Smoothed Return,8000,117.0
+Standard DQN,0,Smoothed Return,8500,125.8125
+Standard DQN,0,Smoothed Return,9000,148.0
+Standard DQN,0,Smoothed Return,9500,141.64285714285714
+Standard DQN,0,Smoothed Return,10000,137.42857142857142
+Standard DQN,0,Smoothed Return,10500,144.92307692307693
+Standard DQN,0,Smoothed Return,11000,148.53846153846155
+Standard DQN,0,Smoothed Return,11500,167.0
+Standard DQN,0,Smoothed Return,12000,174.16666666666666
+Standard DQN,0,Smoothed Return,12500,158.15384615384616
+Standard DQN,0,Smoothed Return,13000,140.0
+Standard DQN,0,Smoothed Return,13500,118.0
+Standard DQN,0,Smoothed Return,14000,107.63157894736842
+Standard DQN,0,Smoothed Return,14500,102.85
+Standard DQN,0,Smoothed Return,15000,107.61111111111111
+Standard DQN,0,Smoothed Return,15500,117.0
+Standard DQN,0,Smoothed Return,16000,127.06666666666666
+Standard DQN,0,Smoothed Return,16500,139.57142857142858
+Standard DQN,0,Smoothed Return,17000,142.57142857142858
+Standard DQN,0,Smoothed Return,17500,137.06666666666666
+Standard DQN,0,Smoothed Return,18000,131.86666666666667
+Standard DQN,0,Smoothed Return,18500,145.64285714285714
+Standard DQN,0,Smoothed Return,19000,143.57142857142858
+Standard DQN,0,Smoothed Return,19500,149.23076923076923
+Standard DQN,0,Smoothed Return,20000,152.71428571428572
+Standard DQN,0,Mean Maximum Q,1000,2.129271984100342
+Standard DQN,0,Largest Absolute Q,1000,2.833200454711914
+Standard DQN,0,Mean Maximum Q,2000,5.785098552703857
+Standard DQN,0,Largest Absolute Q,2000,7.044101238250732
+Standard DQN,0,Mean Maximum Q,3000,9.368671417236328
+Standard DQN,0,Largest Absolute Q,3000,11.0225830078125
+Standard DQN,0,Mean Maximum Q,4000,13.178099632263184
+Standard DQN,0,Largest Absolute Q,4000,15.278682708740234
+Standard DQN,0,Mean Maximum Q,5000,16.968717575073242
+Standard DQN,0,Largest Absolute Q,5000,18.24216079711914
+Standard DQN,0,Mean Maximum Q,6000,20.57075309753418
+Standard DQN,0,Largest Absolute Q,6000,22.972986221313477
+Standard DQN,0,Mean Maximum Q,7000,23.682172775268555
+Standard DQN,0,Largest Absolute Q,7000,25.180936813354492
+Standard DQN,0,Mean Maximum Q,8000,26.66792106628418
+Standard DQN,0,Largest Absolute Q,8000,28.581541061401367
+Standard DQN,0,Mean Maximum Q,9000,29.650127410888672
+Standard DQN,0,Largest Absolute Q,9000,32.14824295043945
+Standard DQN,0,Mean Maximum Q,10000,32.323524475097656
+Standard DQN,0,Largest Absolute Q,10000,34.21048355102539
+Standard DQN,0,Mean Maximum Q,11000,34.84290313720703
+Standard DQN,0,Largest Absolute Q,11000,38.00397491455078
+Standard DQN,0,Mean Maximum Q,12000,37.271942138671875
+Standard DQN,0,Largest Absolute Q,12000,41.47181701660156
+Standard DQN,0,Mean Maximum Q,13000,39.69428253173828
+Standard DQN,0,Largest Absolute Q,13000,42.7509765625
+Standard DQN,0,Mean Maximum Q,14000,42.15645217895508
+Standard DQN,0,Largest Absolute Q,14000,45.46445846557617
+Standard DQN,0,Mean Maximum Q,15000,44.2944450378418
+Standard DQN,0,Largest Absolute Q,15000,47.44179916381836
+Standard DQN,0,Mean Maximum Q,16000,46.426353454589844
+Standard DQN,0,Largest Absolute Q,16000,50.156551361083984
+Standard DQN,0,Mean Maximum Q,17000,48.74547576904297
+Standard DQN,0,Largest Absolute Q,17000,51.85569381713867
+Standard DQN,0,Mean Maximum Q,18000,50.24859619140625
+Standard DQN,0,Largest Absolute Q,18000,55.13338851928711
+Standard DQN,0,Mean Maximum Q,19000,52.26420211791992
+Standard DQN,0,Largest Absolute Q,19000,56.20993423461914
+Standard DQN,0,Mean Maximum Q,20000,54.138084411621094
+Standard DQN,0,Largest Absolute Q,20000,58.73448181152344
+Standard DQN,1,Smoothed Return,500,19.52
+Standard DQN,1,Smoothed Return,1000,20.770833333333332
+Standard DQN,1,Smoothed Return,1500,21.13235294117647
+Standard DQN,1,Smoothed Return,2000,22.790697674418606
+Standard DQN,1,Smoothed Return,2500,26.84931506849315
+Standard DQN,1,Smoothed Return,3000,32.49180327868852
+Standard DQN,1,Smoothed Return,3500,38.755102040816325
+Standard DQN,1,Smoothed Return,4000,49.4390243902439
+Standard DQN,1,Smoothed Return,4500,60.26470588235294
+Standard DQN,1,Smoothed Return,5000,69.07407407407408
+Standard DQN,1,Smoothed Return,5500,85.32
+Standard DQN,1,Smoothed Return,6000,94.8
+Standard DQN,1,Smoothed Return,6500,102.88888888888889
+Standard DQN,1,Smoothed Return,7000,123.82352941176471
+Standard DQN,1,Smoothed Return,7500,142.21428571428572
+Standard DQN,1,Smoothed Return,8000,179.72727272727272
+Standard DQN,1,Smoothed Return,8500,188.36363636363637
+Standard DQN,1,Smoothed Return,9000,181.63636363636363
+Standard DQN,1,Smoothed Return,9500,188.7
+Standard DQN,1,Smoothed Return,10000,169.75
+Standard DQN,1,Smoothed Return,10500,171.5
+Standard DQN,1,Smoothed Return,11000,175.63636363636363
+Standard DQN,1,Smoothed Return,11500,171.41666666666666
+Standard DQN,1,Smoothed Return,12000,183.72727272727272
+Standard DQN,1,Smoothed Return,12500,177.0
+Standard DQN,1,Smoothed Return,13000,162.69230769230768
+Standard DQN,1,Smoothed Return,13500,130.5
+Standard DQN,1,Smoothed Return,14000,109.36842105263158
+Standard DQN,1,Smoothed Return,14500,94.38095238095238
+Standard DQN,1,Smoothed Return,15000,87.9090909090909
+Standard DQN,1,Smoothed Return,15500,96.7
+Standard DQN,1,Smoothed Return,16000,115.58823529411765
+Standard DQN,1,Smoothed Return,16500,131.86666666666667
+Standard DQN,1,Smoothed Return,17000,144.14285714285714
+Standard DQN,1,Smoothed Return,17500,142.57142857142858
+Standard DQN,1,Smoothed Return,18000,127.25
+Standard DQN,1,Smoothed Return,18500,116.61111111111111
+Standard DQN,1,Smoothed Return,19000,106.78947368421052
+Standard DQN,1,Smoothed Return,19500,98.42857142857143
+Standard DQN,1,Smoothed Return,20000,91.04545454545455
+Standard DQN,1,Mean Maximum Q,1000,2.1543474197387695
+Standard DQN,1,Largest Absolute Q,1000,2.5490825176239014
+Standard DQN,1,Mean Maximum Q,2000,5.8608269691467285
+Standard DQN,1,Largest Absolute Q,2000,6.694201946258545
+Standard DQN,1,Mean Maximum Q,3000,9.579185485839844
+Standard DQN,1,Largest Absolute Q,3000,12.27099895477295
+Standard DQN,1,Mean Maximum Q,4000,13.208202362060547
+Standard DQN,1,Largest Absolute Q,4000,14.838659286499023
+Standard DQN,1,Mean Maximum Q,5000,16.91176986694336
+Standard DQN,1,Largest Absolute Q,5000,20.912866592407227
+Standard DQN,1,Mean Maximum Q,6000,20.411052703857422
+Standard DQN,1,Largest Absolute Q,6000,26.626306533813477
+Standard DQN,1,Mean Maximum Q,7000,23.721389770507812
+Standard DQN,1,Largest Absolute Q,7000,27.596141815185547
+Standard DQN,1,Mean Maximum Q,8000,26.940059661865234
+Standard DQN,1,Largest Absolute Q,8000,29.291364669799805
+Standard DQN,1,Mean Maximum Q,9000,29.9383487701416
+Standard DQN,1,Largest Absolute Q,9000,37.87879943847656
+Standard DQN,1,Mean Maximum Q,10000,32.63612365722656
+Standard DQN,1,Largest Absolute Q,10000,39.561248779296875
+Standard DQN,1,Mean Maximum Q,11000,35.521175384521484
+Standard DQN,1,Largest Absolute Q,11000,40.82826232910156
+Standard DQN,1,Mean Maximum Q,12000,37.9638786315918
+Standard DQN,1,Largest Absolute Q,12000,44.06838607788086
+Standard DQN,1,Mean Maximum Q,13000,40.62529754638672
+Standard DQN,1,Largest Absolute Q,13000,48.56359100341797
+Standard DQN,1,Mean Maximum Q,14000,43.58769607543945
+Standard DQN,1,Largest Absolute Q,14000,53.03568649291992
+Standard DQN,1,Mean Maximum Q,15000,45.827659606933594
+Standard DQN,1,Largest Absolute Q,15000,53.63176345825195
+Standard DQN,1,Mean Maximum Q,16000,47.90007781982422
+Standard DQN,1,Largest Absolute Q,16000,54.31187057495117
+Standard DQN,1,Mean Maximum Q,17000,50.17500686645508
+Standard DQN,1,Largest Absolute Q,17000,55.71021270751953
+Standard DQN,1,Mean Maximum Q,18000,52.186100006103516
+Standard DQN,1,Largest Absolute Q,18000,58.01091384887695
+Standard DQN,1,Mean Maximum Q,19000,53.88595962524414
+Standard DQN,1,Largest Absolute Q,19000,60.195335388183594
+Standard DQN,1,Mean Maximum Q,20000,55.76803970336914
+Standard DQN,1,Largest Absolute Q,20000,61.516998291015625
+Standard DQN,2,Smoothed Return,500,19.32
+Standard DQN,2,Smoothed Return,1000,21.866666666666667
+Standard DQN,2,Smoothed Return,1500,23.234375
+Standard DQN,2,Smoothed Return,2000,24.974683544303797
+Standard DQN,2,Smoothed Return,2500,30.484848484848484
+Standard DQN,2,Smoothed Return,3000,35.872727272727275
+Standard DQN,2,Smoothed Return,3500,41.829787234042556
+Standard DQN,2,Smoothed Return,4000,50.026315789473685
+Standard DQN,2,Smoothed Return,4500,59.333333333333336
+Standard DQN,2,Smoothed Return,5000,66.58620689655173
+Standard DQN,2,Smoothed Return,5500,87.21739130434783
+Standard DQN,2,Smoothed Return,6000,105.05
+Standard DQN,2,Smoothed Return,6500,121.625
+Standard DQN,2,Smoothed Return,7000,134.8
+Standard DQN,2,Smoothed Return,7500,151.6153846153846
+Standard DQN,2,Smoothed Return,8000,137.21428571428572
+Standard DQN,2,Smoothed Return,8500,147.0
+Standard DQN,2,Smoothed Return,9000,159.33333333333334
+Standard DQN,2,Smoothed Return,9500,143.28571428571428
+Standard DQN,2,Smoothed Return,10000,154.76923076923077
+Standard DQN,2,Smoothed Return,10500,125.9375
+Standard DQN,2,Smoothed Return,11000,111.21052631578948
+Standard DQN,2,Smoothed Return,11500,99.35
+Standard DQN,2,Smoothed Return,12000,81.92
+Standard DQN,2,Smoothed Return,12500,76.73076923076923
+Standard DQN,2,Smoothed Return,13000,73.57142857142857
+Standard DQN,2,Smoothed Return,13500,69.96551724137932
+Standard DQN,2,Smoothed Return,14000,65.93548387096774
+Standard DQN,2,Smoothed Return,14500,59.5
+Standard DQN,2,Smoothed Return,15000,53.67567567567568
+Standard DQN,2,Smoothed Return,15500,47.285714285714285
+Standard DQN,2,Smoothed Return,16000,49.025
+Standard DQN,2,Smoothed Return,16500,54.166666666666664
+Standard DQN,2,Smoothed Return,17000,60.60606060606061
+Standard DQN,2,Smoothed Return,17500,75.96296296296296
+Standard DQN,2,Smoothed Return,18000,78.32
+Standard DQN,2,Smoothed Return,18500,74.62962962962963
+Standard DQN,2,Smoothed Return,19000,77.68
+Standard DQN,2,Smoothed Return,19500,61.90625
+Standard DQN,2,Smoothed Return,20000,57.80555555555556
+Standard DQN,2,Mean Maximum Q,1000,2.0284361839294434
+Standard DQN,2,Largest Absolute Q,1000,2.658695936203003
+Standard DQN,2,Mean Maximum Q,2000,5.78037691116333
+Standard DQN,2,Largest Absolute Q,2000,6.888792991638184
+Standard DQN,2,Mean Maximum Q,3000,9.287694931030273
+Standard DQN,2,Largest Absolute Q,3000,10.995501518249512
+Standard DQN,2,Mean Maximum Q,4000,12.89013957977295
+Standard DQN,2,Largest Absolute Q,4000,15.00090217590332
+Standard DQN,2,Mean Maximum Q,5000,16.364566802978516
+Standard DQN,2,Largest Absolute Q,5000,17.920351028442383
+Standard DQN,2,Mean Maximum Q,6000,19.72469139099121
+Standard DQN,2,Largest Absolute Q,6000,24.0410213470459
+Standard DQN,2,Mean Maximum Q,7000,22.857851028442383
+Standard DQN,2,Largest Absolute Q,7000,26.95381736755371
+Standard DQN,2,Mean Maximum Q,8000,26.097475051879883
+Standard DQN,2,Largest Absolute Q,8000,30.12391471862793
+Standard DQN,2,Mean Maximum Q,9000,29.059066772460938
+Standard DQN,2,Largest Absolute Q,9000,32.06101989746094
+Standard DQN,2,Mean Maximum Q,10000,31.901002883911133
+Standard DQN,2,Largest Absolute Q,10000,44.72603988647461
+Standard DQN,2,Mean Maximum Q,11000,34.87478256225586
+Standard DQN,2,Largest Absolute Q,11000,49.604312896728516
+Standard DQN,2,Mean Maximum Q,12000,37.918888092041016
+Standard DQN,2,Largest Absolute Q,12000,51.40555191040039
+Standard DQN,2,Mean Maximum Q,13000,40.646854400634766
+Standard DQN,2,Largest Absolute Q,13000,53.78659439086914
+Standard DQN,2,Mean Maximum Q,14000,43.12004852294922
+Standard DQN,2,Largest Absolute Q,14000,57.215641021728516
+Standard DQN,2,Mean Maximum Q,15000,45.92095184326172
+Standard DQN,2,Largest Absolute Q,15000,58.2806396484375
+Standard DQN,2,Mean Maximum Q,16000,48.48398971557617
+Standard DQN,2,Largest Absolute Q,16000,60.19400405883789
+Standard DQN,2,Mean Maximum Q,17000,50.75614929199219
+Standard DQN,2,Largest Absolute Q,17000,62.153743743896484
+Standard DQN,2,Mean Maximum Q,18000,52.87602233886719
+Standard DQN,2,Largest Absolute Q,18000,63.68525695800781
+Standard DQN,2,Mean Maximum Q,19000,54.837974548339844
+Standard DQN,2,Largest Absolute Q,19000,65.40837860107422
+Standard DQN,2,Mean Maximum Q,20000,57.1435546875
+Standard DQN,2,Largest Absolute Q,20000,66.98819732666016
+DQN without target network,0,Smoothed Return,500,21.59090909090909
+DQN without target network,0,Smoothed Return,1000,22.177777777777777
+DQN without target network,0,Smoothed Return,1500,22.388059701492537
+DQN without target network,0,Smoothed Return,2000,21.408602150537636
+DQN without target network,0,Smoothed Return,2500,20.824742268041238
+DQN without target network,0,Smoothed Return,3000,19.281553398058254
+DQN without target network,0,Smoothed Return,3500,17.535087719298247
+DQN without target network,0,Smoothed Return,4000,16.317073170731707
+DQN without target network,0,Smoothed Return,4500,14.777777777777779
+DQN without target network,0,Smoothed Return,5000,13.958041958041958
+DQN without target network,0,Smoothed Return,5500,13.38255033557047
+DQN without target network,0,Smoothed Return,6000,12.632911392405063
+DQN without target network,0,Smoothed Return,6500,12.096385542168674
+DQN without target network,0,Smoothed Return,7000,11.420454545454545
+DQN without target network,0,Smoothed Return,7500,10.848648648648648
+DQN without target network,0,Smoothed Return,8000,10.411458333333334
+DQN without target network,0,Smoothed Return,8500,10.121827411167512
+DQN without target network,0,Smoothed Return,9000,9.901477832512315
+DQN without target network,0,Smoothed Return,9500,9.746341463414634
+DQN without target network,0,Smoothed Return,10000,9.723300970873787
+DQN without target network,0,Smoothed Return,10500,9.671497584541063
+DQN without target network,0,Smoothed Return,11000,9.642512077294686
+DQN without target network,0,Smoothed Return,11500,9.625
+DQN without target network,0,Smoothed Return,12000,9.629807692307692
+DQN without target network,0,Smoothed Return,12500,9.681159420289855
+DQN without target network,0,Smoothed Return,13000,9.699029126213592
+DQN without target network,0,Smoothed Return,13500,9.586538461538462
+DQN without target network,0,Smoothed Return,14000,9.574162679425838
+DQN without target network,0,Smoothed Return,14500,9.535885167464114
+DQN without target network,0,Smoothed Return,15000,9.538095238095238
+DQN without target network,0,Smoothed Return,15500,9.492890995260664
+DQN without target network,0,Smoothed Return,16000,9.596153846153847
+DQN without target network,0,Smoothed Return,16500,9.5933014354067
+DQN without target network,0,Smoothed Return,17000,9.60576923076923
+DQN without target network,0,Smoothed Return,17500,9.718446601941748
+DQN without target network,0,Smoothed Return,18000,9.689320388349515
+DQN without target network,0,Smoothed Return,18500,9.723300970873787
+DQN without target network,0,Smoothed Return,19000,9.746341463414634
+DQN without target network,0,Smoothed Return,19500,9.751219512195123
+DQN without target network,0,Smoothed Return,20000,9.607655502392344
+DQN without target network,0,Mean Maximum Q,1000,691.4466552734375
+DQN without target network,0,Largest Absolute Q,1000,1636.167236328125
+DQN without target network,0,Mean Maximum Q,2000,11778.2421875
+DQN without target network,0,Largest Absolute Q,2000,29854.076171875
+DQN without target network,0,Mean Maximum Q,3000,52508.6875
+DQN without target network,0,Largest Absolute Q,3000,175504.640625
+DQN without target network,0,Mean Maximum Q,4000,142277.78125
+DQN without target network,0,Largest Absolute Q,4000,539370.9375
+DQN without target network,0,Mean Maximum Q,5000,304290.6875
+DQN without target network,0,Largest Absolute Q,5000,1228805.625
+DQN without target network,0,Mean Maximum Q,6000,558312.8125
+DQN without target network,0,Largest Absolute Q,6000,2358014.75
+DQN without target network,0,Mean Maximum Q,7000,921931.8125
+DQN without target network,0,Largest Absolute Q,7000,3859341.25
+DQN without target network,0,Mean Maximum Q,8000,1414810.375
+DQN without target network,0,Largest Absolute Q,8000,6015460.0
+DQN without target network,0,Mean Maximum Q,9000,2057704.375
+DQN without target network,0,Largest Absolute Q,9000,8779291.0
+DQN without target network,0,Mean Maximum Q,10000,2870767.25
+DQN without target network,0,Largest Absolute Q,10000,12252867.0
+DQN without target network,0,Mean Maximum Q,11000,3874106.0
+DQN without target network,0,Largest Absolute Q,11000,16183198.0
+DQN without target network,0,Mean Maximum Q,12000,5093885.0
+DQN without target network,0,Largest Absolute Q,12000,22697276.0
+DQN without target network,0,Mean Maximum Q,13000,6549964.0
+DQN without target network,0,Largest Absolute Q,13000,27468106.0
+DQN without target network,0,Mean Maximum Q,14000,8261471.0
+DQN without target network,0,Largest Absolute Q,14000,35001488.0
+DQN without target network,0,Mean Maximum Q,15000,10258745.0
+DQN without target network,0,Largest Absolute Q,15000,46054456.0
+DQN without target network,0,Mean Maximum Q,16000,12563359.0
+DQN without target network,0,Largest Absolute Q,16000,57008004.0
+DQN without target network,0,Mean Maximum Q,17000,15193414.0
+DQN without target network,0,Largest Absolute Q,17000,68990992.0
+DQN without target network,0,Mean Maximum Q,18000,18166938.0
+DQN without target network,0,Largest Absolute Q,18000,80805936.0
+DQN without target network,0,Mean Maximum Q,19000,21508690.0
+DQN without target network,0,Largest Absolute Q,19000,96521992.0
+DQN without target network,0,Mean Maximum Q,20000,25241870.0
+DQN without target network,0,Largest Absolute Q,20000,114016088.0
+DQN without target network,1,Smoothed Return,500,19.52
+DQN without target network,1,Smoothed Return,1000,20.081632653061224
+DQN without target network,1,Smoothed Return,1500,20.27027027027027
+DQN without target network,1,Smoothed Return,2000,20.432989690721648
+DQN without target network,1,Smoothed Return,2500,19.134615384615383
+DQN without target network,1,Smoothed Return,3000,18.144144144144143
+DQN without target network,1,Smoothed Return,3500,17.848214285714285
+DQN without target network,1,Smoothed Return,4000,16.741666666666667
+DQN without target network,1,Smoothed Return,4500,16.12
+DQN without target network,1,Smoothed Return,5000,14.762962962962963
+DQN without target network,1,Smoothed Return,5500,12.993506493506494
+DQN without target network,1,Smoothed Return,6000,12.115151515151515
+DQN without target network,1,Smoothed Return,6500,11.589595375722544
+DQN without target network,1,Smoothed Return,7000,11.105555555555556
+DQN without target network,1,Smoothed Return,7500,10.657754010695188
+DQN without target network,1,Smoothed Return,8000,10.203045685279188
+DQN without target network,1,Smoothed Return,8500,9.813725490196079
+DQN without target network,1,Smoothed Return,9000,9.629807692307692
+DQN without target network,1,Smoothed Return,9500,9.625
+DQN without target network,1,Smoothed Return,10000,9.615384615384615
+DQN without target network,1,Smoothed Return,10500,9.591346153846153
+DQN without target network,1,Smoothed Return,11000,9.578947368421053
+DQN without target network,1,Smoothed Return,11500,9.569377990430622
+DQN without target network,1,Smoothed Return,12000,9.523809523809524
+DQN without target network,1,Smoothed Return,12500,9.50952380952381
+DQN without target network,1,Smoothed Return,13000,9.60576923076923
+DQN without target network,1,Smoothed Return,13500,9.666666666666666
+DQN without target network,1,Smoothed Return,14000,9.628019323671497
+DQN without target network,1,Smoothed Return,14500,9.68599033816425
+DQN without target network,1,Smoothed Return,15000,9.666666666666666
+DQN without target network,1,Smoothed Return,15500,9.596153846153847
+DQN without target network,1,Smoothed Return,16000,9.66183574879227
+DQN without target network,1,Smoothed Return,16500,9.596153846153847
+DQN without target network,1,Smoothed Return,17000,9.492890995260664
+DQN without target network,1,Smoothed Return,17500,9.528571428571428
+DQN without target network,1,Smoothed Return,18000,9.452830188679245
+DQN without target network,1,Smoothed Return,18500,9.538095238095238
+DQN without target network,1,Smoothed Return,19000,9.60576923076923
+DQN without target network,1,Smoothed Return,19500,9.598086124401913
+DQN without target network,1,Smoothed Return,20000,9.676328502415458
+DQN without target network,1,Mean Maximum Q,1000,589.6529541015625
+DQN without target network,1,Largest Absolute Q,1000,1200.06591796875
+DQN without target network,1,Mean Maximum Q,2000,8818.5859375
+DQN without target network,1,Largest Absolute Q,2000,34329.8984375
+DQN without target network,1,Mean Maximum Q,3000,35337.98828125
+DQN without target network,1,Largest Absolute Q,3000,160191.21875
+DQN without target network,1,Mean Maximum Q,4000,99814.9296875
+DQN without target network,1,Largest Absolute Q,4000,646576.0
+DQN without target network,1,Mean Maximum Q,5000,220444.390625
+DQN without target network,1,Largest Absolute Q,5000,1101088.375
+DQN without target network,1,Mean Maximum Q,6000,407925.875
+DQN without target network,1,Largest Absolute Q,6000,2321067.5
+DQN without target network,1,Mean Maximum Q,7000,677234.4375
+DQN without target network,1,Largest Absolute Q,7000,4129391.25
+DQN without target network,1,Mean Maximum Q,8000,1047187.3125
+DQN without target network,1,Largest Absolute Q,8000,6517331.5
+DQN without target network,1,Mean Maximum Q,9000,1530779.375
+DQN without target network,1,Largest Absolute Q,9000,9102855.0
+DQN without target network,1,Mean Maximum Q,10000,2144700.75
+DQN without target network,1,Largest Absolute Q,10000,12643738.0
+DQN without target network,1,Mean Maximum Q,11000,2904962.75
+DQN without target network,1,Largest Absolute Q,11000,17126832.0
+DQN without target network,1,Mean Maximum Q,12000,3826085.5
+DQN without target network,1,Largest Absolute Q,12000,24236188.0
+DQN without target network,1,Mean Maximum Q,13000,4924912.0
+DQN without target network,1,Largest Absolute Q,13000,29644558.0
+DQN without target network,1,Mean Maximum Q,14000,6215034.0
+DQN without target network,1,Largest Absolute Q,14000,36406892.0
+DQN without target network,1,Mean Maximum Q,15000,7717404.5
+DQN without target network,1,Largest Absolute Q,15000,48677856.0
+DQN without target network,1,Mean Maximum Q,16000,9442532.0
+DQN without target network,1,Largest Absolute Q,16000,55330960.0
+DQN without target network,1,Mean Maximum Q,17000,11405613.0
+DQN without target network,1,Largest Absolute Q,17000,70040728.0
+DQN without target network,1,Mean Maximum Q,18000,13627269.0
+DQN without target network,1,Largest Absolute Q,18000,83406304.0
+DQN without target network,1,Mean Maximum Q,19000,16134605.0
+DQN without target network,1,Largest Absolute Q,19000,99191128.0
+DQN without target network,1,Mean Maximum Q,20000,18928732.0
+DQN without target network,1,Largest Absolute Q,20000,119836360.0
+DQN without target network,2,Smoothed Return,500,19.32
+DQN without target network,2,Smoothed Return,1000,23.023809523809526
+DQN without target network,2,Smoothed Return,1500,24.278688524590162
+DQN without target network,2,Smoothed Return,2000,23.44705882352941
+DQN without target network,2,Smoothed Return,2500,23.24418604651163
+DQN without target network,2,Smoothed Return,3000,21.763440860215052
+DQN without target network,2,Smoothed Return,3500,19.142857142857142
+DQN without target network,2,Smoothed Return,4000,17.535087719298247
+DQN without target network,2,Smoothed Return,4500,15.7109375
+DQN without target network,2,Smoothed Return,5000,14.112676056338028
+DQN without target network,2,Smoothed Return,5500,13.19078947368421
+DQN without target network,2,Smoothed Return,6000,12.231707317073171
+DQN without target network,2,Smoothed Return,6500,11.730994152046783
+DQN without target network,2,Smoothed Return,7000,11.184357541899441
+DQN without target network,2,Smoothed Return,7500,10.695187165775401
+DQN without target network,2,Smoothed Return,8000,10.373056994818652
+DQN without target network,2,Smoothed Return,8500,10.157360406091371
+DQN without target network,2,Smoothed Return,9000,9.876237623762377
+DQN without target network,2,Smoothed Return,9500,9.770731707317074
+DQN without target network,2,Smoothed Return,10000,9.746341463414634
+DQN without target network,2,Smoothed Return,10500,9.679611650485437
+DQN without target network,2,Smoothed Return,11000,9.695652173913043
+DQN without target network,2,Smoothed Return,11500,9.721951219512196
+DQN without target network,2,Smoothed Return,12000,9.66183574879227
+DQN without target network,2,Smoothed Return,12500,9.66183574879227
+DQN without target network,2,Smoothed Return,13000,9.642512077294686
+DQN without target network,2,Smoothed Return,13500,9.547619047619047
+DQN without target network,2,Smoothed Return,14000,9.55023923444976
+DQN without target network,2,Smoothed Return,14500,9.547619047619047
+DQN without target network,2,Smoothed Return,15000,9.528571428571428
+DQN without target network,2,Smoothed Return,15500,9.523809523809524
+DQN without target network,2,Smoothed Return,16000,9.569377990430622
+DQN without target network,2,Smoothed Return,16500,9.600961538461538
+DQN without target network,2,Smoothed Return,17000,9.629807692307692
+DQN without target network,2,Smoothed Return,17500,9.676328502415458
+DQN without target network,2,Smoothed Return,18000,9.671497584541063
+DQN without target network,2,Smoothed Return,18500,9.731707317073171
+DQN without target network,2,Smoothed Return,19000,9.736585365853658
+DQN without target network,2,Smoothed Return,19500,9.741463414634147
+DQN without target network,2,Smoothed Return,20000,9.681159420289855
+DQN without target network,2,Mean Maximum Q,1000,698.453369140625
+DQN without target network,2,Largest Absolute Q,1000,1588.4263916015625
+DQN without target network,2,Mean Maximum Q,2000,11286.77734375
+DQN without target network,2,Largest Absolute Q,2000,43410.75390625
+DQN without target network,2,Mean Maximum Q,3000,46129.359375
+DQN without target network,2,Largest Absolute Q,3000,176609.734375
+DQN without target network,2,Mean Maximum Q,4000,124402.796875
+DQN without target network,2,Largest Absolute Q,4000,455839.375
+DQN without target network,2,Mean Maximum Q,5000,268570.90625
+DQN without target network,2,Largest Absolute Q,5000,1036343.9375
+DQN without target network,2,Mean Maximum Q,6000,497395.59375
+DQN without target network,2,Largest Absolute Q,6000,2222305.75
+DQN without target network,2,Mean Maximum Q,7000,831930.3125
+DQN without target network,2,Largest Absolute Q,7000,3662627.0
+DQN without target network,2,Mean Maximum Q,8000,1309755.875
+DQN without target network,2,Largest Absolute Q,8000,5365458.5
+DQN without target network,2,Mean Maximum Q,9000,1948243.25
+DQN without target network,2,Largest Absolute Q,9000,8529656.0
+DQN without target network,2,Mean Maximum Q,10000,2761037.0
+DQN without target network,2,Largest Absolute Q,10000,11882984.0
+DQN without target network,2,Mean Maximum Q,11000,3771186.75
+DQN without target network,2,Largest Absolute Q,11000,15915568.0
+DQN without target network,2,Mean Maximum Q,12000,5002299.5
+DQN without target network,2,Largest Absolute Q,12000,22802486.0
+DQN without target network,2,Mean Maximum Q,13000,6474993.5
+DQN without target network,2,Largest Absolute Q,13000,28042416.0
+DQN without target network,2,Mean Maximum Q,14000,8213944.0
+DQN without target network,2,Largest Absolute Q,14000,34705808.0
+DQN without target network,2,Mean Maximum Q,15000,10239496.0
+DQN without target network,2,Largest Absolute Q,15000,46717656.0
+DQN without target network,2,Mean Maximum Q,16000,12575690.0
+DQN without target network,2,Largest Absolute Q,16000,55934208.0
+DQN without target network,2,Mean Maximum Q,17000,15242461.0
+DQN without target network,2,Largest Absolute Q,17000,64314476.0
+DQN without target network,2,Mean Maximum Q,18000,18263674.0
+DQN without target network,2,Largest Absolute Q,18000,82240288.0
+DQN without target network,2,Mean Maximum Q,19000,21657054.0
+DQN without target network,2,Largest Absolute Q,19000,98481320.0
+DQN without target network,2,Mean Maximum Q,20000,25452386.0
+DQN without target network,2,Largest Absolute Q,20000,107027328.0
+DQN without replay buffer,0,Smoothed Return,500,22.095238095238095
+DQN without replay buffer,0,Smoothed Return,1000,22.522727272727273
+DQN without replay buffer,0,Smoothed Return,1500,22.333333333333332
+DQN without replay buffer,0,Smoothed Return,2000,24.8125
+DQN without replay buffer,0,Smoothed Return,2500,28.535211267605632
+DQN without replay buffer,0,Smoothed Return,3000,34.016949152542374
+DQN without replay buffer,0,Smoothed Return,3500,46.02272727272727
+DQN without replay buffer,0,Smoothed Return,4000,56.6
+DQN without replay buffer,0,Smoothed Return,4500,65.16666666666667
+DQN without replay buffer,0,Smoothed Return,5000,81.25
+DQN without replay buffer,0,Smoothed Return,5500,82.41666666666667
+DQN without replay buffer,0,Smoothed Return,6000,87.86363636363636
+DQN without replay buffer,0,Smoothed Return,6500,105.47368421052632
+DQN without replay buffer,0,Smoothed Return,7000,114.58823529411765
+DQN without replay buffer,0,Smoothed Return,7500,120.4375
+DQN without replay buffer,0,Smoothed Return,8000,122.625
+DQN without replay buffer,0,Smoothed Return,8500,127.66666666666667
+DQN without replay buffer,0,Smoothed Return,9000,128.375
+DQN without replay buffer,0,Smoothed Return,9500,141.07142857142858
+DQN without replay buffer,0,Smoothed Return,10000,132.13333333333333
+DQN without replay buffer,0,Smoothed Return,10500,132.125
+DQN without replay buffer,0,Smoothed Return,11000,132.93333333333334
+DQN without replay buffer,0,Smoothed Return,11500,138.86666666666667
+DQN without replay buffer,0,Smoothed Return,12000,143.66666666666666
+DQN without replay buffer,0,Smoothed Return,12500,137.57142857142858
+DQN without replay buffer,0,Smoothed Return,13000,137.64285714285714
+DQN without replay buffer,0,Smoothed Return,13500,126.0
+DQN without replay buffer,0,Smoothed Return,14000,133.33333333333334
+DQN without replay buffer,0,Smoothed Return,14500,123.6875
+DQN without replay buffer,0,Smoothed Return,15000,119.0
+DQN without replay buffer,0,Smoothed Return,15500,133.6
+DQN without replay buffer,0,Smoothed Return,16000,130.06666666666666
+DQN without replay buffer,0,Smoothed Return,16500,141.64285714285714
+DQN without replay buffer,0,Smoothed Return,17000,154.76923076923077
+DQN without replay buffer,0,Smoothed Return,17500,162.5
+DQN without replay buffer,0,Smoothed Return,18000,177.9090909090909
+DQN without replay buffer,0,Smoothed Return,18500,171.66666666666666
+DQN without replay buffer,0,Smoothed Return,19000,145.5
+DQN without replay buffer,0,Smoothed Return,19500,145.5
+DQN without replay buffer,0,Smoothed Return,20000,139.6
+DQN without replay buffer,0,Mean Maximum Q,1000,3.917497396469116
+DQN without replay buffer,0,Largest Absolute Q,1000,4.64796781539917
+DQN without replay buffer,0,Mean Maximum Q,2000,7.5977911949157715
+DQN without replay buffer,0,Largest Absolute Q,2000,8.636046409606934
+DQN without replay buffer,0,Mean Maximum Q,3000,11.436965942382812
+DQN without replay buffer,0,Largest Absolute Q,3000,13.352906227111816
+DQN without replay buffer,0,Mean Maximum Q,4000,15.067607879638672
+DQN without replay buffer,0,Largest Absolute Q,4000,16.527339935302734
+DQN without replay buffer,0,Mean Maximum Q,5000,18.118824005126953
+DQN without replay buffer,0,Largest Absolute Q,5000,21.6737003326416
+DQN without replay buffer,0,Mean Maximum Q,6000,21.26167106628418
+DQN without replay buffer,0,Largest Absolute Q,6000,23.77752113342285
+DQN without replay buffer,0,Mean Maximum Q,7000,25.06833839416504
+DQN without replay buffer,0,Largest Absolute Q,7000,27.00264549255371
+DQN without replay buffer,0,Mean Maximum Q,8000,27.87385368347168
+DQN without replay buffer,0,Largest Absolute Q,8000,29.8858585357666
+DQN without replay buffer,0,Mean Maximum Q,9000,31.012218475341797
+DQN without replay buffer,0,Largest Absolute Q,9000,32.9104118347168
+DQN without replay buffer,0,Mean Maximum Q,10000,33.097354888916016
+DQN without replay buffer,0,Largest Absolute Q,10000,35.94424057006836
+DQN without replay buffer,0,Mean Maximum Q,11000,36.010005950927734
+DQN without replay buffer,0,Largest Absolute Q,11000,38.80602264404297
+DQN without replay buffer,0,Mean Maximum Q,12000,38.716796875
+DQN without replay buffer,0,Largest Absolute Q,12000,41.29503631591797
+DQN without replay buffer,0,Mean Maximum Q,13000,41.37094497680664
+DQN without replay buffer,0,Largest Absolute Q,13000,43.70314025878906
+DQN without replay buffer,0,Mean Maximum Q,14000,43.7039909362793
+DQN without replay buffer,0,Largest Absolute Q,14000,47.10318374633789
+DQN without replay buffer,0,Mean Maximum Q,15000,46.87842559814453
+DQN without replay buffer,0,Largest Absolute Q,15000,49.83051300048828
+DQN without replay buffer,0,Mean Maximum Q,16000,48.90380859375
+DQN without replay buffer,0,Largest Absolute Q,16000,52.13994216918945
+DQN without replay buffer,0,Mean Maximum Q,17000,51.14548110961914
+DQN without replay buffer,0,Largest Absolute Q,17000,54.47597122192383
+DQN without replay buffer,0,Mean Maximum Q,18000,53.590938568115234
+DQN without replay buffer,0,Largest Absolute Q,18000,56.211585998535156
+DQN without replay buffer,0,Mean Maximum Q,19000,55.420082092285156
+DQN without replay buffer,0,Largest Absolute Q,19000,58.30409240722656
+DQN without replay buffer,0,Mean Maximum Q,20000,57.412105560302734
+DQN without replay buffer,0,Largest Absolute Q,20000,60.47610092163086
+DQN without replay buffer,1,Smoothed Return,500,21.130434782608695
+DQN without replay buffer,1,Smoothed Return,1000,24.073170731707318
+DQN without replay buffer,1,Smoothed Return,1500,23.396825396825395
+DQN without replay buffer,1,Smoothed Return,2000,25.87012987012987
+DQN without replay buffer,1,Smoothed Return,2500,30.044776119402986
+DQN without replay buffer,1,Smoothed Return,3000,34.96491228070175
+DQN without replay buffer,1,Smoothed Return,3500,46.69767441860465
+DQN without replay buffer,1,Smoothed Return,4000,56.714285714285715
+DQN without replay buffer,1,Smoothed Return,4500,72.92307692307692
+DQN without replay buffer,1,Smoothed Return,5000,87.3913043478261
+DQN without replay buffer,1,Smoothed Return,5500,104.47368421052632
+DQN without replay buffer,1,Smoothed Return,6000,113.0
+DQN without replay buffer,1,Smoothed Return,6500,100.05
+DQN without replay buffer,1,Smoothed Return,7000,103.88888888888889
+DQN without replay buffer,1,Smoothed Return,7500,112.17647058823529
+DQN without replay buffer,1,Smoothed Return,8000,119.3529411764706
+DQN without replay buffer,1,Smoothed Return,8500,148.0
+DQN without replay buffer,1,Smoothed Return,9000,152.35714285714286
+DQN without replay buffer,1,Smoothed Return,9500,146.57142857142858
+DQN without replay buffer,1,Smoothed Return,10000,150.76923076923077
+DQN without replay buffer,1,Smoothed Return,10500,165.23076923076923
+DQN without replay buffer,1,Smoothed Return,11000,170.27272727272728
+DQN without replay buffer,1,Smoothed Return,11500,183.72727272727272
+DQN without replay buffer,1,Smoothed Return,12000,187.36363636363637
+DQN without replay buffer,1,Smoothed Return,12500,176.9090909090909
+DQN without replay buffer,1,Smoothed Return,13000,177.0909090909091
+DQN without replay buffer,1,Smoothed Return,13500,178.8181818181818
+DQN without replay buffer,1,Smoothed Return,14000,186.1
+DQN without replay buffer,1,Smoothed Return,14500,186.72727272727272
+DQN without replay buffer,1,Smoothed Return,15000,172.66666666666666
+DQN without replay buffer,1,Smoothed Return,15500,164.66666666666666
+DQN without replay buffer,1,Smoothed Return,16000,159.53846153846155
+DQN without replay buffer,1,Smoothed Return,16500,148.3846153846154
+DQN without replay buffer,1,Smoothed Return,17000,150.85714285714286
+DQN without replay buffer,1,Smoothed Return,17500,125.25
+DQN without replay buffer,1,Smoothed Return,18000,114.22222222222223
+DQN without replay buffer,1,Smoothed Return,18500,122.47058823529412
+DQN without replay buffer,1,Smoothed Return,19000,125.125
+DQN without replay buffer,1,Smoothed Return,19500,150.07142857142858
+DQN without replay buffer,1,Smoothed Return,20000,171.75
+DQN without replay buffer,1,Mean Maximum Q,1000,4.051422595977783
+DQN without replay buffer,1,Largest Absolute Q,1000,4.764420032501221
+DQN without replay buffer,1,Mean Maximum Q,2000,7.5660929679870605
+DQN without replay buffer,1,Largest Absolute Q,2000,9.068828582763672
+DQN without replay buffer,1,Mean Maximum Q,3000,10.84422779083252
+DQN without replay buffer,1,Largest Absolute Q,3000,12.620186805725098
+DQN without replay buffer,1,Mean Maximum Q,4000,14.5440034866333
+DQN without replay buffer,1,Largest Absolute Q,4000,17.057920455932617
+DQN without replay buffer,1,Mean Maximum Q,5000,17.875913619995117
+DQN without replay buffer,1,Largest Absolute Q,5000,19.930673599243164
+DQN without replay buffer,1,Mean Maximum Q,6000,21.660215377807617
+DQN without replay buffer,1,Largest Absolute Q,6000,23.528844833374023
+DQN without replay buffer,1,Mean Maximum Q,7000,25.386329650878906
+DQN without replay buffer,1,Largest Absolute Q,7000,27.255111694335938
+DQN without replay buffer,1,Mean Maximum Q,8000,28.93649673461914
+DQN without replay buffer,1,Largest Absolute Q,8000,30.381099700927734
+DQN without replay buffer,1,Mean Maximum Q,9000,31.778806686401367
+DQN without replay buffer,1,Largest Absolute Q,9000,33.392147064208984
+DQN without replay buffer,1,Mean Maximum Q,10000,34.70137405395508
+DQN without replay buffer,1,Largest Absolute Q,10000,35.52644729614258
+DQN without replay buffer,1,Mean Maximum Q,11000,36.912139892578125
+DQN without replay buffer,1,Largest Absolute Q,11000,37.6912841796875
+DQN without replay buffer,1,Mean Maximum Q,12000,39.16549301147461
+DQN without replay buffer,1,Largest Absolute Q,12000,40.09381103515625
+DQN without replay buffer,1,Mean Maximum Q,13000,41.26029586791992
+DQN without replay buffer,1,Largest Absolute Q,13000,42.29819869995117
+DQN without replay buffer,1,Mean Maximum Q,14000,43.351959228515625
+DQN without replay buffer,1,Largest Absolute Q,14000,44.42524337768555
+DQN without replay buffer,1,Mean Maximum Q,15000,45.599735260009766
+DQN without replay buffer,1,Largest Absolute Q,15000,46.37993621826172
+DQN without replay buffer,1,Mean Maximum Q,16000,48.03746795654297
+DQN without replay buffer,1,Largest Absolute Q,16000,49.01201629638672
+DQN without replay buffer,1,Mean Maximum Q,17000,49.88230514526367
+DQN without replay buffer,1,Largest Absolute Q,17000,51.080406188964844
+DQN without replay buffer,1,Mean Maximum Q,18000,51.91571044921875
+DQN without replay buffer,1,Largest Absolute Q,18000,53.257293701171875
+DQN without replay buffer,1,Mean Maximum Q,19000,53.603885650634766
+DQN without replay buffer,1,Largest Absolute Q,19000,55.70413589477539
+DQN without replay buffer,1,Mean Maximum Q,20000,55.59352493286133
+DQN without replay buffer,1,Largest Absolute Q,20000,57.19972229003906
+DQN without replay buffer,2,Smoothed Return,500,22.857142857142858
+DQN without replay buffer,2,Smoothed Return,1000,22.0
+DQN without replay buffer,2,Smoothed Return,1500,22.29850746268657
+DQN without replay buffer,2,Smoothed Return,2000,24.08433734939759
+DQN without replay buffer,2,Smoothed Return,2500,24.753086419753085
+DQN without replay buffer,2,Smoothed Return,3000,26.285714285714285
+DQN without replay buffer,2,Smoothed Return,3500,30.50769230769231
+DQN without replay buffer,2,Smoothed Return,4000,33.42857142857143
+DQN without replay buffer,2,Smoothed Return,4500,45.95238095238095
+DQN without replay buffer,2,Smoothed Return,5000,74.11538461538461
+DQN without replay buffer,2,Smoothed Return,5500,103.83333333333333
+DQN without replay buffer,2,Smoothed Return,6000,123.29411764705883
+DQN without replay buffer,2,Smoothed Return,6500,129.33333333333334
+DQN without replay buffer,2,Smoothed Return,7000,135.73333333333332
+DQN without replay buffer,2,Smoothed Return,7500,142.71428571428572
+DQN without replay buffer,2,Smoothed Return,8000,179.27272727272728
+DQN without replay buffer,2,Smoothed Return,8500,189.72727272727272
+DQN without replay buffer,2,Smoothed Return,9000,166.58333333333334
+DQN without replay buffer,2,Smoothed Return,9500,164.3846153846154
+DQN without replay buffer,2,Smoothed Return,10000,160.66666666666666
+DQN without replay buffer,2,Smoothed Return,10500,168.75
+DQN without replay buffer,2,Smoothed Return,11000,191.3
+DQN without replay buffer,2,Smoothed Return,11500,198.6
+DQN without replay buffer,2,Smoothed Return,12000,172.66666666666666
+DQN without replay buffer,2,Smoothed Return,12500,144.5
+DQN without replay buffer,2,Smoothed Return,13000,126.8125
+DQN without replay buffer,2,Smoothed Return,13500,104.6842105263158
+DQN without replay buffer,2,Smoothed Return,14000,106.78947368421052
+DQN without replay buffer,2,Smoothed Return,14500,114.6470588235294
+DQN without replay buffer,2,Smoothed Return,15000,130.8125
+DQN without replay buffer,2,Smoothed Return,15500,158.75
+DQN without replay buffer,2,Smoothed Return,16000,181.1818181818182
+DQN without replay buffer,2,Smoothed Return,16500,192.2
+DQN without replay buffer,2,Smoothed Return,17000,180.45454545454547
+DQN without replay buffer,2,Smoothed Return,17500,149.92857142857142
+DQN without replay buffer,2,Smoothed Return,18000,131.66666666666666
+DQN without replay buffer,2,Smoothed Return,18500,118.16666666666667
+DQN without replay buffer,2,Smoothed Return,19000,107.77777777777777
+DQN without replay buffer,2,Smoothed Return,19500,117.41176470588235
+DQN without replay buffer,2,Smoothed Return,20000,108.63157894736842
+DQN without replay buffer,2,Mean Maximum Q,1000,3.915541410446167
+DQN without replay buffer,2,Largest Absolute Q,1000,4.347021579742432
+DQN without replay buffer,2,Mean Maximum Q,2000,7.497802257537842
+DQN without replay buffer,2,Largest Absolute Q,2000,8.760904312133789
+DQN without replay buffer,2,Mean Maximum Q,3000,10.491453170776367
+DQN without replay buffer,2,Largest Absolute Q,3000,12.321630477905273
+DQN without replay buffer,2,Mean Maximum Q,4000,13.831903457641602
+DQN without replay buffer,2,Largest Absolute Q,4000,15.793550491333008
+DQN without replay buffer,2,Mean Maximum Q,5000,17.246192932128906
+DQN without replay buffer,2,Largest Absolute Q,5000,19.472381591796875
+DQN without replay buffer,2,Mean Maximum Q,6000,20.796035766601562
+DQN without replay buffer,2,Largest Absolute Q,6000,23.43891143798828
+DQN without replay buffer,2,Mean Maximum Q,7000,23.643375396728516
+DQN without replay buffer,2,Largest Absolute Q,7000,26.35630989074707
+DQN without replay buffer,2,Mean Maximum Q,8000,26.98903465270996
+DQN without replay buffer,2,Largest Absolute Q,8000,29.214134216308594
+DQN without replay buffer,2,Mean Maximum Q,9000,30.382003784179688
+DQN without replay buffer,2,Largest Absolute Q,9000,32.1548957824707
+DQN without replay buffer,2,Mean Maximum Q,10000,33.49420928955078
+DQN without replay buffer,2,Largest Absolute Q,10000,35.3906364440918
+DQN without replay buffer,2,Mean Maximum Q,11000,36.18348693847656
+DQN without replay buffer,2,Largest Absolute Q,11000,38.109588623046875
+DQN without replay buffer,2,Mean Maximum Q,12000,39.02560043334961
+DQN without replay buffer,2,Largest Absolute Q,12000,41.12385177612305
+DQN without replay buffer,2,Mean Maximum Q,13000,41.13352966308594
+DQN without replay buffer,2,Largest Absolute Q,13000,43.193477630615234
+DQN without replay buffer,2,Mean Maximum Q,14000,44.164817810058594
+DQN without replay buffer,2,Largest Absolute Q,14000,46.83790969848633
+DQN without replay buffer,2,Mean Maximum Q,15000,46.676734924316406
+DQN without replay buffer,2,Largest Absolute Q,15000,48.7435188293457
+DQN without replay buffer,2,Mean Maximum Q,16000,48.77703094482422
+DQN without replay buffer,2,Largest Absolute Q,16000,50.785308837890625
+DQN without replay buffer,2,Mean Maximum Q,17000,51.066551208496094
+DQN without replay buffer,2,Largest Absolute Q,17000,53.59880447387695
+DQN without replay buffer,2,Mean Maximum Q,18000,53.144325256347656
+DQN without replay buffer,2,Largest Absolute Q,18000,55.942203521728516
+DQN without replay buffer,2,Mean Maximum Q,19000,55.05174255371094
+DQN without replay buffer,2,Largest Absolute Q,19000,58.08366012573242
+DQN without replay buffer,2,Mean Maximum Q,20000,56.87192916870117
+DQN without replay buffer,2,Largest Absolute Q,20000,60.329322814941406
+DQN with 1000-item buffer,0,Smoothed Return,500,21.59090909090909
+DQN with 1000-item buffer,0,Smoothed Return,1000,20.3265306122449
+DQN with 1000-item buffer,0,Smoothed Return,1500,22.014705882352942
+DQN with 1000-item buffer,0,Smoothed Return,2000,23.240963855421686
+DQN with 1000-item buffer,0,Smoothed Return,2500,27.614285714285714
+DQN with 1000-item buffer,0,Smoothed Return,3000,39.23529411764706
+DQN with 1000-item buffer,0,Smoothed Return,3500,48.34146341463415
+DQN with 1000-item buffer,0,Smoothed Return,4000,59.588235294117645
+DQN with 1000-item buffer,0,Smoothed Return,4500,68.83333333333333
+DQN with 1000-item buffer,0,Smoothed Return,5000,68.60714285714286
+DQN with 1000-item buffer,0,Smoothed Return,5500,81.1304347826087
+DQN with 1000-item buffer,0,Smoothed Return,6000,102.25
+DQN with 1000-item buffer,0,Smoothed Return,6500,98.4
+DQN with 1000-item buffer,0,Smoothed Return,7000,111.72222222222223
+DQN with 1000-item buffer,0,Smoothed Return,7500,111.05263157894737
+DQN with 1000-item buffer,0,Smoothed Return,8000,107.94444444444444
+DQN with 1000-item buffer,0,Smoothed Return,8500,119.41176470588235
+DQN with 1000-item buffer,0,Smoothed Return,9000,124.6875
+DQN with 1000-item buffer,0,Smoothed Return,9500,138.28571428571428
+DQN with 1000-item buffer,0,Smoothed Return,10000,150.0
+DQN with 1000-item buffer,0,Smoothed Return,10500,168.5
+DQN with 1000-item buffer,0,Smoothed Return,11000,167.66666666666666
+DQN with 1000-item buffer,0,Smoothed Return,11500,176.8181818181818
+DQN with 1000-item buffer,0,Smoothed Return,12000,180.0
+DQN with 1000-item buffer,0,Smoothed Return,12500,160.0
+DQN with 1000-item buffer,0,Smoothed Return,13000,142.5
+DQN with 1000-item buffer,0,Smoothed Return,13500,135.8
+DQN with 1000-item buffer,0,Smoothed Return,14000,126.1875
+DQN with 1000-item buffer,0,Smoothed Return,14500,122.8125
+DQN with 1000-item buffer,0,Smoothed Return,15000,136.71428571428572
+DQN with 1000-item buffer,0,Smoothed Return,15500,141.28571428571428
+DQN with 1000-item buffer,0,Smoothed Return,16000,155.84615384615384
+DQN with 1000-item buffer,0,Smoothed Return,16500,156.3846153846154
+DQN with 1000-item buffer,0,Smoothed Return,17000,148.42857142857142
+DQN with 1000-item buffer,0,Smoothed Return,17500,143.64285714285714
+DQN with 1000-item buffer,0,Smoothed Return,18000,125.9375
+DQN with 1000-item buffer,0,Smoothed Return,18500,137.53333333333333
+DQN with 1000-item buffer,0,Smoothed Return,19000,149.53846153846155
+DQN with 1000-item buffer,0,Smoothed Return,19500,152.84615384615384
+DQN with 1000-item buffer,0,Smoothed Return,20000,172.25
+DQN with 1000-item buffer,0,Mean Maximum Q,1000,2.129271984100342
+DQN with 1000-item buffer,0,Largest Absolute Q,1000,2.833200454711914
+DQN with 1000-item buffer,0,Mean Maximum Q,2000,5.8198981285095215
+DQN with 1000-item buffer,0,Largest Absolute Q,2000,6.75382661819458
+DQN with 1000-item buffer,0,Mean Maximum Q,3000,9.29123592376709
+DQN with 1000-item buffer,0,Largest Absolute Q,3000,10.815022468566895
+DQN with 1000-item buffer,0,Mean Maximum Q,4000,12.978076934814453
+DQN with 1000-item buffer,0,Largest Absolute Q,4000,15.00411319732666
+DQN with 1000-item buffer,0,Mean Maximum Q,5000,16.410715103149414
+DQN with 1000-item buffer,0,Largest Absolute Q,5000,19.048458099365234
+DQN with 1000-item buffer,0,Mean Maximum Q,6000,19.73072624206543
+DQN with 1000-item buffer,0,Largest Absolute Q,6000,22.169004440307617
+DQN with 1000-item buffer,0,Mean Maximum Q,7000,23.241836547851562
+DQN with 1000-item buffer,0,Largest Absolute Q,7000,25.86075210571289
+DQN with 1000-item buffer,0,Mean Maximum Q,8000,26.594362258911133
+DQN with 1000-item buffer,0,Largest Absolute Q,8000,28.890920639038086
+DQN with 1000-item buffer,0,Mean Maximum Q,9000,29.23979949951172
+DQN with 1000-item buffer,0,Largest Absolute Q,9000,31.248010635375977
+DQN with 1000-item buffer,0,Mean Maximum Q,10000,31.99765968322754
+DQN with 1000-item buffer,0,Largest Absolute Q,10000,33.91135025024414
+DQN with 1000-item buffer,0,Mean Maximum Q,11000,34.598873138427734
+DQN with 1000-item buffer,0,Largest Absolute Q,11000,36.64369583129883
+DQN with 1000-item buffer,0,Mean Maximum Q,12000,36.910186767578125
+DQN with 1000-item buffer,0,Largest Absolute Q,12000,39.42720413208008
+DQN with 1000-item buffer,0,Mean Maximum Q,13000,39.55268096923828
+DQN with 1000-item buffer,0,Largest Absolute Q,13000,41.89516830444336
+DQN with 1000-item buffer,0,Mean Maximum Q,14000,41.79716110229492
+DQN with 1000-item buffer,0,Largest Absolute Q,14000,44.23935317993164
+DQN with 1000-item buffer,0,Mean Maximum Q,15000,44.33617401123047
+DQN with 1000-item buffer,0,Largest Absolute Q,15000,45.82663345336914
+DQN with 1000-item buffer,0,Mean Maximum Q,16000,46.956668853759766
+DQN with 1000-item buffer,0,Largest Absolute Q,16000,48.28068161010742
+DQN with 1000-item buffer,0,Mean Maximum Q,17000,49.2843132019043
+DQN with 1000-item buffer,0,Largest Absolute Q,17000,49.96135330200195
+DQN with 1000-item buffer,0,Mean Maximum Q,18000,51.39484405517578
+DQN with 1000-item buffer,0,Largest Absolute Q,18000,52.04373550415039
+DQN with 1000-item buffer,0,Mean Maximum Q,19000,53.11455154418945
+DQN with 1000-item buffer,0,Largest Absolute Q,19000,54.70134353637695
+DQN with 1000-item buffer,0,Mean Maximum Q,20000,55.3360481262207
+DQN with 1000-item buffer,0,Largest Absolute Q,20000,57.12179946899414
+DQN with 1000-item buffer,1,Smoothed Return,500,19.52
+DQN with 1000-item buffer,1,Smoothed Return,1000,20.770833333333332
+DQN with 1000-item buffer,1,Smoothed Return,1500,22.17910447761194
+DQN with 1000-item buffer,1,Smoothed Return,2000,25.576923076923077
+DQN with 1000-item buffer,1,Smoothed Return,2500,29.850746268656717
+DQN with 1000-item buffer,1,Smoothed Return,3000,34.89473684210526
+DQN with 1000-item buffer,1,Smoothed Return,3500,45.30232558139535
+DQN with 1000-item buffer,1,Smoothed Return,4000,51.63157894736842
+DQN with 1000-item buffer,1,Smoothed Return,4500,63.32258064516129
+DQN with 1000-item buffer,1,Smoothed Return,5000,86.78260869565217
+DQN with 1000-item buffer,1,Smoothed Return,5500,90.63636363636364
+DQN with 1000-item buffer,1,Smoothed Return,6000,103.44444444444444
+DQN with 1000-item buffer,1,Smoothed Return,6500,140.57142857142858
+DQN with 1000-item buffer,1,Smoothed Return,7000,167.0
+DQN with 1000-item buffer,1,Smoothed Return,7500,199.1
+DQN with 1000-item buffer,1,Smoothed Return,8000,200.0
+DQN with 1000-item buffer,1,Smoothed Return,8500,200.0
+DQN with 1000-item buffer,1,Smoothed Return,9000,200.0
+DQN with 1000-item buffer,1,Smoothed Return,9500,200.0
+DQN with 1000-item buffer,1,Smoothed Return,10000,200.0
+DQN with 1000-item buffer,1,Smoothed Return,10500,198.9
+DQN with 1000-item buffer,1,Smoothed Return,11000,198.7
+DQN with 1000-item buffer,1,Smoothed Return,11500,178.72727272727272
+DQN with 1000-item buffer,1,Smoothed Return,12000,173.25
+DQN with 1000-item buffer,1,Smoothed Return,12500,170.58333333333334
+DQN with 1000-item buffer,1,Smoothed Return,13000,168.33333333333334
+DQN with 1000-item buffer,1,Smoothed Return,13500,185.54545454545453
+DQN with 1000-item buffer,1,Smoothed Return,14000,192.8
+DQN with 1000-item buffer,1,Smoothed Return,14500,197.1
+DQN with 1000-item buffer,1,Smoothed Return,15000,200.0
+DQN with 1000-item buffer,1,Smoothed Return,15500,200.0
+DQN with 1000-item buffer,1,Smoothed Return,16000,200.0
+DQN with 1000-item buffer,1,Smoothed Return,16500,200.0
+DQN with 1000-item buffer,1,Smoothed Return,17000,200.0
+DQN with 1000-item buffer,1,Smoothed Return,17500,200.0
+DQN with 1000-item buffer,1,Smoothed Return,18000,200.0
+DQN with 1000-item buffer,1,Smoothed Return,18500,182.72727272727272
+DQN with 1000-item buffer,1,Smoothed Return,19000,182.0909090909091
+DQN with 1000-item buffer,1,Smoothed Return,19500,180.27272727272728
+DQN with 1000-item buffer,1,Smoothed Return,20000,144.93333333333334
+DQN with 1000-item buffer,1,Mean Maximum Q,1000,2.1543474197387695
+DQN with 1000-item buffer,1,Largest Absolute Q,1000,2.5490825176239014
+DQN with 1000-item buffer,1,Mean Maximum Q,2000,5.933351516723633
+DQN with 1000-item buffer,1,Largest Absolute Q,2000,6.585668563842773
+DQN with 1000-item buffer,1,Mean Maximum Q,3000,9.544472694396973
+DQN with 1000-item buffer,1,Largest Absolute Q,3000,10.517901420593262
+DQN with 1000-item buffer,1,Mean Maximum Q,4000,13.0051851272583
+DQN with 1000-item buffer,1,Largest Absolute Q,4000,14.556797981262207
+DQN with 1000-item buffer,1,Mean Maximum Q,5000,16.268505096435547
+DQN with 1000-item buffer,1,Largest Absolute Q,5000,17.899110794067383
+DQN with 1000-item buffer,1,Mean Maximum Q,6000,19.82189178466797
+DQN with 1000-item buffer,1,Largest Absolute Q,6000,20.876588821411133
+DQN with 1000-item buffer,1,Mean Maximum Q,7000,22.965335845947266
+DQN with 1000-item buffer,1,Largest Absolute Q,7000,24.00234031677246
+DQN with 1000-item buffer,1,Mean Maximum Q,8000,26.075620651245117
+DQN with 1000-item buffer,1,Largest Absolute Q,8000,27.003421783447266
+DQN with 1000-item buffer,1,Mean Maximum Q,9000,29.077329635620117
+DQN with 1000-item buffer,1,Largest Absolute Q,9000,30.198467254638672
+DQN with 1000-item buffer,1,Mean Maximum Q,10000,32.02853775024414
+DQN with 1000-item buffer,1,Largest Absolute Q,10000,33.10725402832031
+DQN with 1000-item buffer,1,Mean Maximum Q,11000,34.8243522644043
+DQN with 1000-item buffer,1,Largest Absolute Q,11000,35.88899612426758
+DQN with 1000-item buffer,1,Mean Maximum Q,12000,37.65805435180664
+DQN with 1000-item buffer,1,Largest Absolute Q,12000,38.50798797607422
+DQN with 1000-item buffer,1,Mean Maximum Q,13000,40.1201286315918
+DQN with 1000-item buffer,1,Largest Absolute Q,13000,40.89482116699219
+DQN with 1000-item buffer,1,Mean Maximum Q,14000,42.36130905151367
+DQN with 1000-item buffer,1,Largest Absolute Q,14000,42.86288833618164
+DQN with 1000-item buffer,1,Mean Maximum Q,15000,44.55410385131836
+DQN with 1000-item buffer,1,Largest Absolute Q,15000,45.14548873901367
+DQN with 1000-item buffer,1,Mean Maximum Q,16000,46.66716766357422
+DQN with 1000-item buffer,1,Largest Absolute Q,16000,47.329647064208984
+DQN with 1000-item buffer,1,Mean Maximum Q,17000,48.74760055541992
+DQN with 1000-item buffer,1,Largest Absolute Q,17000,49.69611740112305
+DQN with 1000-item buffer,1,Mean Maximum Q,18000,50.8079948425293
+DQN with 1000-item buffer,1,Largest Absolute Q,18000,52.016239166259766
+DQN with 1000-item buffer,1,Mean Maximum Q,19000,52.77132034301758
+DQN with 1000-item buffer,1,Largest Absolute Q,19000,55.12178039550781
+DQN with 1000-item buffer,1,Mean Maximum Q,20000,54.41095733642578
+DQN with 1000-item buffer,1,Largest Absolute Q,20000,58.1347770690918
+DQN with 1000-item buffer,2,Smoothed Return,500,19.32
+DQN with 1000-item buffer,2,Smoothed Return,1000,21.866666666666667
+DQN with 1000-item buffer,2,Smoothed Return,1500,22.666666666666668
+DQN with 1000-item buffer,2,Smoothed Return,2000,25.435897435897434
+DQN with 1000-item buffer,2,Smoothed Return,2500,29.53731343283582
+DQN with 1000-item buffer,2,Smoothed Return,3000,36.53703703703704
+DQN with 1000-item buffer,2,Smoothed Return,3500,48.725
+DQN with 1000-item buffer,2,Smoothed Return,4000,58.38235294117647
+DQN with 1000-item buffer,2,Smoothed Return,4500,74.62962962962963
+DQN with 1000-item buffer,2,Smoothed Return,5000,81.24
+DQN with 1000-item buffer,2,Smoothed Return,5500,89.34782608695652
+DQN with 1000-item buffer,2,Smoothed Return,6000,99.3
+DQN with 1000-item buffer,2,Smoothed Return,6500,118.0625
+DQN with 1000-item buffer,2,Smoothed Return,7000,141.28571428571428
+DQN with 1000-item buffer,2,Smoothed Return,7500,169.63636363636363
+DQN with 1000-item buffer,2,Smoothed Return,8000,163.75
+DQN with 1000-item buffer,2,Smoothed Return,8500,168.16666666666666
+DQN with 1000-item buffer,2,Smoothed Return,9000,154.92307692307693
+DQN with 1000-item buffer,2,Smoothed Return,9500,143.78571428571428
+DQN with 1000-item buffer,2,Smoothed Return,10000,144.78571428571428
+DQN with 1000-item buffer,2,Smoothed Return,10500,143.57142857142858
+DQN with 1000-item buffer,2,Smoothed Return,11000,153.0
+DQN with 1000-item buffer,2,Smoothed Return,11500,163.83333333333334
+DQN with 1000-item buffer,2,Smoothed Return,12000,180.45454545454547
+DQN with 1000-item buffer,2,Smoothed Return,12500,178.0909090909091
+DQN with 1000-item buffer,2,Smoothed Return,13000,180.36363636363637
+DQN with 1000-item buffer,2,Smoothed Return,13500,182.54545454545453
+DQN with 1000-item buffer,2,Smoothed Return,14000,169.41666666666666
+DQN with 1000-item buffer,2,Smoothed Return,14500,181.1818181818182
+DQN with 1000-item buffer,2,Smoothed Return,15000,180.1818181818182
+DQN with 1000-item buffer,2,Smoothed Return,15500,180.1818181818182
+DQN with 1000-item buffer,2,Smoothed Return,16000,195.0
+DQN with 1000-item buffer,2,Smoothed Return,16500,178.25
+DQN with 1000-item buffer,2,Smoothed Return,17000,164.5
+DQN with 1000-item buffer,2,Smoothed Return,17500,156.07692307692307
+DQN with 1000-item buffer,2,Smoothed Return,18000,154.30769230769232
+DQN with 1000-item buffer,2,Smoothed Return,18500,167.75
+DQN with 1000-item buffer,2,Smoothed Return,19000,176.72727272727272
+DQN with 1000-item buffer,2,Smoothed Return,19500,159.53846153846155
+DQN with 1000-item buffer,2,Smoothed Return,20000,148.5
+DQN with 1000-item buffer,2,Mean Maximum Q,1000,2.0284361839294434
+DQN with 1000-item buffer,2,Largest Absolute Q,1000,2.658695936203003
+DQN with 1000-item buffer,2,Mean Maximum Q,2000,5.708601951599121
+DQN with 1000-item buffer,2,Largest Absolute Q,2000,7.460908889770508
+DQN with 1000-item buffer,2,Mean Maximum Q,3000,9.400376319885254
+DQN with 1000-item buffer,2,Largest Absolute Q,3000,10.477972984313965
+DQN with 1000-item buffer,2,Mean Maximum Q,4000,12.996943473815918
+DQN with 1000-item buffer,2,Largest Absolute Q,4000,14.575898170471191
+DQN with 1000-item buffer,2,Mean Maximum Q,5000,16.567554473876953
+DQN with 1000-item buffer,2,Largest Absolute Q,5000,17.642263412475586
+DQN with 1000-item buffer,2,Mean Maximum Q,6000,20.02264404296875
+DQN with 1000-item buffer,2,Largest Absolute Q,6000,21.206119537353516
+DQN with 1000-item buffer,2,Mean Maximum Q,7000,23.052574157714844
+DQN with 1000-item buffer,2,Largest Absolute Q,7000,24.077747344970703
+DQN with 1000-item buffer,2,Mean Maximum Q,8000,25.963363647460938
+DQN with 1000-item buffer,2,Largest Absolute Q,8000,28.526180267333984
+DQN with 1000-item buffer,2,Mean Maximum Q,9000,29.191009521484375
+DQN with 1000-item buffer,2,Largest Absolute Q,9000,31.5732421875
+DQN with 1000-item buffer,2,Mean Maximum Q,10000,32.19795608520508
+DQN with 1000-item buffer,2,Largest Absolute Q,10000,34.226078033447266
+DQN with 1000-item buffer,2,Mean Maximum Q,11000,34.71318817138672
+DQN with 1000-item buffer,2,Largest Absolute Q,11000,36.8802490234375
+DQN with 1000-item buffer,2,Mean Maximum Q,12000,37.184329986572266
+DQN with 1000-item buffer,2,Largest Absolute Q,12000,39.19007110595703
+DQN with 1000-item buffer,2,Mean Maximum Q,13000,39.657989501953125
+DQN with 1000-item buffer,2,Largest Absolute Q,13000,41.33484649658203
+DQN with 1000-item buffer,2,Mean Maximum Q,14000,41.76953125
+DQN with 1000-item buffer,2,Largest Absolute Q,14000,44.140960693359375
+DQN with 1000-item buffer,2,Mean Maximum Q,15000,43.675167083740234
+DQN with 1000-item buffer,2,Largest Absolute Q,15000,45.337364196777344
+DQN with 1000-item buffer,2,Mean Maximum Q,16000,45.89657211303711
+DQN with 1000-item buffer,2,Largest Absolute Q,16000,48.45639419555664
+DQN with 1000-item buffer,2,Mean Maximum Q,17000,48.3116455078125
+DQN with 1000-item buffer,2,Largest Absolute Q,17000,50.44020462036133
+DQN with 1000-item buffer,2,Mean Maximum Q,18000,50.3878059387207
+DQN with 1000-item buffer,2,Largest Absolute Q,18000,52.041748046875
+DQN with 1000-item buffer,2,Mean Maximum Q,19000,52.27056884765625
+DQN with 1000-item buffer,2,Largest Absolute Q,19000,54.614768981933594
+DQN with 1000-item buffer,2,Mean Maximum Q,20000,54.27134323120117
+DQN with 1000-item buffer,2,Largest Absolute Q,20000,56.309207916259766
+REINFORCE,0,Smoothed Return,500,17.03448275862069
+REINFORCE,0,Smoothed Return,1000,16.913793103448278
+REINFORCE,0,Smoothed Return,1500,16.764044943820224
+REINFORCE,0,Smoothed Return,2000,16.37704918032787
+REINFORCE,0,Smoothed Return,2500,15.6328125
+REINFORCE,0,Smoothed Return,3000,15.180451127819548
+REINFORCE,0,Smoothed Return,3500,15.236641221374045
+REINFORCE,0,Smoothed Return,4000,15.67716535433071
+REINFORCE,0,Smoothed Return,4500,17.068376068376068
+REINFORCE,0,Smoothed Return,5000,17.848214285714285
+REINFORCE,0,Smoothed Return,5500,18.38532110091743
+REINFORCE,0,Smoothed Return,6000,18.431192660550458
+REINFORCE,0,Smoothed Return,6500,18.858490566037737
+REINFORCE,0,Smoothed Return,7000,19.0
+REINFORCE,0,Smoothed Return,7500,20.3265306122449
+REINFORCE,0,Smoothed Return,8000,22.011111111111113
+REINFORCE,0,Smoothed Return,8500,23.892857142857142
+REINFORCE,0,Smoothed Return,9000,26.586666666666666
+REINFORCE,0,Smoothed Return,9500,28.112676056338028
+REINFORCE,0,Smoothed Return,10000,31.109375
+REINFORCE,0,Smoothed Return,10500,31.09375
+REINFORCE,0,Smoothed Return,11000,35.660714285714285
+REINFORCE,0,Smoothed Return,11500,38.67307692307692
+REINFORCE,0,Smoothed Return,12000,40.895833333333336
+REINFORCE,0,Smoothed Return,12500,48.292682926829265
+REINFORCE,0,Smoothed Return,13000,46.651162790697676
+REINFORCE,0,Smoothed Return,13500,46.372093023255815
+REINFORCE,0,Smoothed Return,14000,47.348837209302324
+REINFORCE,0,Smoothed Return,14500,44.04347826086956
+REINFORCE,0,Smoothed Return,15000,45.65909090909091
+REINFORCE,0,Smoothed Return,15500,48.170731707317074
+REINFORCE,0,Smoothed Return,16000,47.80952380952381
+REINFORCE,0,Smoothed Return,16500,52.0
+REINFORCE,0,Smoothed Return,17000,49.794871794871796
+REINFORCE,0,Smoothed Return,17500,51.41025641025641
+REINFORCE,0,Smoothed Return,18000,53.10526315789474
+REINFORCE,0,Smoothed Return,18500,49.4390243902439
+REINFORCE,0,Smoothed Return,19000,52.84615384615385
+REINFORCE,0,Smoothed Return,19500,51.64102564102564
+REINFORCE,0,Smoothed Return,20000,47.73809523809524
+REINFORCE,1,Smoothed Return,500,22.666666666666668
+REINFORCE,1,Smoothed Return,1000,20.224489795918366
+REINFORCE,1,Smoothed Return,1500,17.714285714285715
+REINFORCE,1,Smoothed Return,2000,15.67716535433071
+REINFORCE,1,Smoothed Return,2500,13.403973509933774
+REINFORCE,1,Smoothed Return,3000,12.201219512195122
+REINFORCE,1,Smoothed Return,3500,11.928571428571429
+REINFORCE,1,Smoothed Return,4000,12.151515151515152
+REINFORCE,1,Smoothed Return,4500,12.251533742331288
+REINFORCE,1,Smoothed Return,5000,12.403726708074535
+REINFORCE,1,Smoothed Return,5500,12.096385542168674
+REINFORCE,1,Smoothed Return,6000,11.690058479532164
+REINFORCE,1,Smoothed Return,6500,11.380681818181818
+REINFORCE,1,Smoothed Return,7000,10.956284153005464
+REINFORCE,1,Smoothed Return,7500,10.5
+REINFORCE,1,Smoothed Return,8000,10.183673469387756
+REINFORCE,1,Smoothed Return,8500,10.025125628140703
+REINFORCE,1,Smoothed Return,9000,9.881773399014778
+REINFORCE,1,Smoothed Return,9500,10.035175879396984
+REINFORCE,1,Smoothed Return,10000,10.367875647668393
+REINFORCE,1,Smoothed Return,10500,11.388571428571428
+REINFORCE,1,Smoothed Return,11000,12.49375
+REINFORCE,1,Smoothed Return,11500,13.67123287671233
+REINFORCE,1,Smoothed Return,12000,15.045454545454545
+REINFORCE,1,Smoothed Return,12500,15.6640625
+REINFORCE,1,Smoothed Return,13000,16.24390243902439
+REINFORCE,1,Smoothed Return,13500,16.056
+REINFORCE,1,Smoothed Return,14000,17.256410256410255
+REINFORCE,1,Smoothed Return,14500,18.38532110091743
+REINFORCE,1,Smoothed Return,15000,19.897959183673468
+REINFORCE,1,Smoothed Return,15500,24.182926829268293
+REINFORCE,1,Smoothed Return,16000,25.653846153846153
+REINFORCE,1,Smoothed Return,16500,26.89041095890411
+REINFORCE,1,Smoothed Return,17000,30.08955223880597
+REINFORCE,1,Smoothed Return,17500,29.80597014925373
+REINFORCE,1,Smoothed Return,18000,29.96969696969697
+REINFORCE,1,Smoothed Return,18500,29.852941176470587
+REINFORCE,1,Smoothed Return,19000,28.985714285714284
+REINFORCE,1,Smoothed Return,19500,30.303030303030305
+REINFORCE,1,Smoothed Return,20000,33.733333333333334
+REINFORCE,2,Smoothed Return,500,20.583333333333332
+REINFORCE,2,Smoothed Return,1000,18.826923076923077
+REINFORCE,2,Smoothed Return,1500,19.376623376623378
+REINFORCE,2,Smoothed Return,2000,19.21153846153846
+REINFORCE,2,Smoothed Return,2500,18.875
+REINFORCE,2,Smoothed Return,3000,18.64485981308411
+REINFORCE,2,Smoothed Return,3500,18.72897196261682
+REINFORCE,2,Smoothed Return,4000,19.42718446601942
+REINFORCE,2,Smoothed Return,4500,20.31313131313131
+REINFORCE,2,Smoothed Return,5000,22.153846153846153
+REINFORCE,2,Smoothed Return,5500,21.966666666666665
+REINFORCE,2,Smoothed Return,6000,22.2
+REINFORCE,2,Smoothed Return,6500,22.556818181818183
+REINFORCE,2,Smoothed Return,7000,24.675
+REINFORCE,2,Smoothed Return,7500,27.013333333333332
+REINFORCE,2,Smoothed Return,8000,28.057142857142857
+REINFORCE,2,Smoothed Return,8500,29.61764705882353
+REINFORCE,2,Smoothed Return,9000,27.73972602739726
+REINFORCE,2,Smoothed Return,9500,28.057142857142857
+REINFORCE,2,Smoothed Return,10000,29.318840579710145
+REINFORCE,2,Smoothed Return,10500,30.328358208955223
+REINFORCE,2,Smoothed Return,11000,35.05263157894737
+REINFORCE,2,Smoothed Return,11500,34.96491228070175
+REINFORCE,2,Smoothed Return,12000,36.18181818181818
+REINFORCE,2,Smoothed Return,12500,36.46296296296296
+REINFORCE,2,Smoothed Return,13000,32.04838709677419
+REINFORCE,2,Smoothed Return,13500,33.71666666666667
+REINFORCE,2,Smoothed Return,14000,34.03389830508475
+REINFORCE,2,Smoothed Return,14500,33.847457627118644
+REINFORCE,2,Smoothed Return,15000,34.25423728813559
+REINFORCE,2,Smoothed Return,15500,35.10526315789474
+REINFORCE,2,Smoothed Return,16000,36.63636363636363
+REINFORCE,2,Smoothed Return,16500,36.945454545454545
+REINFORCE,2,Smoothed Return,17000,40.02040816326531
+REINFORCE,2,Smoothed Return,17500,40.59183673469388
+REINFORCE,2,Smoothed Return,18000,39.68
+REINFORCE,2,Smoothed Return,18500,42.1063829787234
+REINFORCE,2,Smoothed Return,19000,43.69565217391305
+REINFORCE,2,Smoothed Return,19500,43.78260869565217
+REINFORCE,2,Smoothed Return,20000,44.86666666666667
+PPO,0,Smoothed Return,500,20.73913043478261
+PPO,0,Smoothed Return,1000,19.11764705882353
+PPO,0,Smoothed Return,1500,19.946666666666665
+PPO,0,Smoothed Return,2000,20.6875
+PPO,0,Smoothed Return,2500,22.941860465116278
+PPO,0,Smoothed Return,3000,26.066666666666666
+PPO,0,Smoothed Return,3500,29.923076923076923
+PPO,0,Smoothed Return,4000,33.42372881355932
+PPO,0,Smoothed Return,4500,34.98245614035088
+PPO,0,Smoothed Return,5000,41.9375
+PPO,0,Smoothed Return,5500,47.02325581395349
+PPO,0,Smoothed Return,6000,53.1578947368421
+PPO,0,Smoothed Return,6500,58.42424242424242
+PPO,0,Smoothed Return,7000,68.85714285714286
+PPO,0,Smoothed Return,7500,84.04347826086956
+PPO,0,Smoothed Return,8000,114.23529411764706
+PPO,0,Smoothed Return,8500,123.6470588235294
+PPO,0,Smoothed Return,9000,122.125
+PPO,0,Smoothed Return,9500,125.1875
+PPO,0,Smoothed Return,10000,122.3529411764706
+PPO,0,Smoothed Return,10500,139.42857142857142
+PPO,0,Smoothed Return,11000,138.4
+PPO,0,Smoothed Return,11500,127.125
+PPO,0,Smoothed Return,12000,129.86666666666667
+PPO,0,Smoothed Return,12500,129.3125
+PPO,0,Smoothed Return,13000,132.73333333333332
+PPO,0,Smoothed Return,13500,152.46153846153845
+PPO,0,Smoothed Return,14000,167.75
+PPO,0,Smoothed Return,14500,175.54545454545453
+PPO,0,Smoothed Return,15000,169.66666666666666
+PPO,0,Smoothed Return,15500,161.16666666666666
+PPO,0,Smoothed Return,16000,145.57142857142858
+PPO,0,Smoothed Return,16500,133.8
+PPO,0,Smoothed Return,17000,135.0
+PPO,0,Smoothed Return,17500,130.9375
+PPO,0,Smoothed Return,18000,141.92307692307693
+PPO,0,Smoothed Return,18500,163.66666666666666
+PPO,0,Smoothed Return,19000,169.0
+PPO,0,Smoothed Return,19500,193.7
+PPO,0,Smoothed Return,20000,179.66666666666666
+PPO,1,Smoothed Return,500,22.6
+PPO,1,Smoothed Return,1000,23.238095238095237
+PPO,1,Smoothed Return,1500,25.350877192982455
+PPO,1,Smoothed Return,2000,27.15068493150685
+PPO,1,Smoothed Return,2500,31.4
+PPO,1,Smoothed Return,3000,38.90384615384615
+PPO,1,Smoothed Return,3500,42.395833333333336
+PPO,1,Smoothed Return,4000,48.04761904761905
+PPO,1,Smoothed Return,4500,55.48571428571429
+PPO,1,Smoothed Return,5000,58.1764705882353
+PPO,1,Smoothed Return,5500,74.14814814814815
+PPO,1,Smoothed Return,6000,91.28571428571429
+PPO,1,Smoothed Return,6500,95.33333333333333
+PPO,1,Smoothed Return,7000,109.66666666666667
+PPO,1,Smoothed Return,7500,97.95
+PPO,1,Smoothed Return,8000,93.04545454545455
+PPO,1,Smoothed Return,8500,92.45454545454545
+PPO,1,Smoothed Return,9000,95.85714285714286
+PPO,1,Smoothed Return,9500,107.0
+PPO,1,Smoothed Return,10000,124.875
+PPO,1,Smoothed Return,10500,121.4375
+PPO,1,Smoothed Return,11000,116.88235294117646
+PPO,1,Smoothed Return,11500,118.05555555555556
+PPO,1,Smoothed Return,12000,119.29411764705883
+PPO,1,Smoothed Return,12500,141.14285714285714
+PPO,1,Smoothed Return,13000,161.58333333333334
+PPO,1,Smoothed Return,13500,180.27272727272728
+PPO,1,Smoothed Return,14000,178.72727272727272
+PPO,1,Smoothed Return,14500,174.0
+PPO,1,Smoothed Return,15000,165.0
+PPO,1,Smoothed Return,15500,160.58333333333334
+PPO,1,Smoothed Return,16000,167.8181818181818
+PPO,1,Smoothed Return,16500,174.9090909090909
+PPO,1,Smoothed Return,17000,190.8181818181818
+PPO,1,Smoothed Return,17500,191.8
+PPO,1,Smoothed Return,18000,191.54545454545453
+PPO,1,Smoothed Return,18500,187.36363636363637
+PPO,1,Smoothed Return,19000,177.9090909090909
+PPO,1,Smoothed Return,19500,159.92307692307693
+PPO,1,Smoothed Return,20000,149.35714285714286
+PPO,2,Smoothed Return,500,23.0
+PPO,2,Smoothed Return,1000,22.044444444444444
+PPO,2,Smoothed Return,1500,24.032258064516128
+PPO,2,Smoothed Return,2000,25.58974358974359
+PPO,2,Smoothed Return,2500,27.328767123287673
+PPO,2,Smoothed Return,3000,32.03225806451613
+PPO,2,Smoothed Return,3500,34.43103448275862
+PPO,2,Smoothed Return,4000,37.16981132075472
+PPO,2,Smoothed Return,4500,42.65217391304348
+PPO,2,Smoothed Return,5000,46.627906976744185
+PPO,2,Smoothed Return,5500,52.28947368421053
+PPO,2,Smoothed Return,6000,58.23529411764706
+PPO,2,Smoothed Return,6500,61.666666666666664
+PPO,2,Smoothed Return,7000,70.78571428571429
+PPO,2,Smoothed Return,7500,81.6086956521739
+PPO,2,Smoothed Return,8000,87.4090909090909
+PPO,2,Smoothed Return,8500,91.95238095238095
+PPO,2,Smoothed Return,9000,101.42105263157895
+PPO,2,Smoothed Return,9500,107.63157894736842
+PPO,2,Smoothed Return,10000,125.9375
+PPO,2,Smoothed Return,10500,155.0
+PPO,2,Smoothed Return,11000,157.0
+PPO,2,Smoothed Return,11500,131.375
+PPO,2,Smoothed Return,12000,134.26666666666668
+PPO,2,Smoothed Return,12500,143.64285714285714
+PPO,2,Smoothed Return,13000,141.21428571428572
+PPO,2,Smoothed Return,13500,175.45454545454547
+PPO,2,Smoothed Return,14000,173.9090909090909
+PPO,2,Smoothed Return,14500,175.8181818181818
+PPO,2,Smoothed Return,15000,176.54545454545453
+PPO,2,Smoothed Return,15500,174.0
+PPO,2,Smoothed Return,16000,168.3846153846154
+PPO,2,Smoothed Return,16500,169.5
+PPO,2,Smoothed Return,17000,169.08333333333334
+PPO,2,Smoothed Return,17500,170.5
+PPO,2,Smoothed Return,18000,178.36363636363637
+PPO,2,Smoothed Return,18500,171.66666666666666
+PPO,2,Smoothed Return,19000,179.9090909090909
+PPO,2,Smoothed Return,19500,188.36363636363637
+PPO,2,Smoothed Return,20000,169.83333333333334
